@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "FdxSalesReport", "CRMTestReport Project\FdxSalesReport.rptproj", "{BEA51D45-2E25-4190-B79B-7E4076EF8A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Debug|Default.ActiveCfg = Debug
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Debug|Default.Build.0 = Debug
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Debug|Default.Deploy.0 = Debug
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.DebugLocal|Default.Build.0 = DebugLocal
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Release|Default.ActiveCfg = Release
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Release|Default.Build.0 = Release
+		{BEA51D45-2E25-4190-B79B-7E4076EF8A49}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
